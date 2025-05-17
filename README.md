@@ -73,7 +73,7 @@ endmodule
 **Timing Diagram**
 
 
-![WhatsApp Image 2025-05-17 at 11 42 24_dcad832a](https://github.com/user-attachments/assets/ce4d945f-f665-48ec-a250-d140d009896e)
+![WhatsApp Image 2025-05-17 at 11 46 30_c0a48870](https://github.com/user-attachments/assets/dec2314c-b379-404c-a3e9-b2439ea963bb)
 
 
 
